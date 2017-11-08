@@ -2,15 +2,21 @@
 
 Primeiramente é preciso criar o banco de dados, foi utilizado o MariaDB e o SQL para criação do mesmo se encontra na pasta database com o nome de: 
 <strong>BD.SQL.</strong>
-<br>
+<br><br>
 Importe este arquivo.
 
+<br>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-## Learning Laravel
+## API RESTful em LARAVEL
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+Utilize um servidor web de sua preferência, no meu caso eu utilizei o XAMPP.<br>
+Coloque todos os arquivos do .git dentro de uma pasta no servidor.<br>
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+
+
+
 
 ## Laravel Sponsors
 
