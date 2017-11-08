@@ -1,5 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-##API RESTful em LARAVEL
+<h1>API RESTFul em LARAVEL para utilização de uma enquete.</h1>
 
 1º Crie o banco de dados, foi utilizado o MariaDB e o SQL para criação do mesmo se encontra na pasta database com o nome de: 
 <strong>BD.SQL.</strong> Importe este arquivo.
@@ -12,5 +12,7 @@ Coloque todos os arquivos do .git dentro de uma pasta no servidor.
 <br>
 
 3º Rotas disponíveis:
+
+- Para consultas todas as 
 
 
