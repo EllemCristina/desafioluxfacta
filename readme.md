@@ -1,17 +1,11 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
 ## Instruções 
 
-Primeiramente é preciso criar o banco de dados, foi utilizado o MariaDB e o SQL para criação do mesmo se encontra na pasta database com o nome de: BD.SQL.
+Primeiramente é preciso criar o banco de dados, foi utilizado o MariaDB e o SQL para criação do mesmo se encontra na pasta database com o nome de: 
+<strong>BD.SQL.</strong>
+<br>
 Importe este arquivo.
 
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 ## Learning Laravel
 
 Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
