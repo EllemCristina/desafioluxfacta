@@ -26,35 +26,29 @@ Sendo:<br>
 {op3}  = Terceira da enquete
 <br>
 
-- Consultar todas as enquetes:<br>
 <strong>Métodos GET</strong><br>
-/enquetes
+- Consultar todas as enquetes: /enquetes
 <br>
 
-- Consultar uma enquete específica:<br>
-/enquete/{id}<br>
+- Consultar uma enquete específica: /enquete/{id}<br>
 Sendo:<br>
 {id} = ID da enquete
 <br>
 
-- Consultar estatísticas:<br>
-/enquete/{id}/stats<br>
+- Consultar estatísticas: /enquete/{id}/stats<br>
 Sendo:<br>
 {id}   = ID da enquete
 <br>
 
-- Editar descrição de enquete específica:<br>
 <strong>Método PUT</strong><br>
-/enquete/{desc}/{id}<br>
+- Editar descrição de enquete específica: /enquete/{desc}/{id}<br>
 Sendo:<br>
 {desc} = Nome da Enquete<br>
 {id}   = ID da enquete
 <br>
 
-
-- Excluir enquete específica:<br>
 <strong>Método DELETE</strong><br>
-/enquete/{id}<br>
+- Excluir enquete específica: /enquete/{id}<br>
 Sendo:<br>
 {id}   = ID da enquete
 <br>
