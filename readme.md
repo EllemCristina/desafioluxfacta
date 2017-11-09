@@ -24,8 +24,8 @@ Sendo:<br>
 {desc} = Nome da Enquete<br>
 {op1}  = Primeira opção da enquete<br>
 {op2}  = Segunda opção da enquete<br>
-{op3}  = Terceira da enquete<br>
-
+{op3}  = Terceira da enquete
+<br>
 
 - Consultar todas as enquetes:<br>
 <strong>Método GET</strong><br>
@@ -36,7 +36,8 @@ Sendo:<br>
 <strong>Método GET</strong><br>
 /enquete/{id}<br>
 Sendo:<br>
-{id} = ID da enquete<br>
+{id} = ID da enquete
+<br>
 
 
 - Editar descrição de enquete específica:<br>
@@ -44,4 +45,5 @@ Sendo:<br>
 /enquete/{desc}/{id}<br>
 Sendo:<br>
 {desc} = Nome da Enquete<br>
-{id} = ID da enquete<br>
+{id} = ID da enquete
+<br>
