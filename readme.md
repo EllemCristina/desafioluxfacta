@@ -1,5 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-<h1>API RESTFul em LARAVEL para utilização de uma enquete.</h1>
+<h2>API RESTFul em LARAVEL para utilização de uma enquete.</h2>
 
 1º Crie o banco de dados, foi utilizado o MariaDB e o SQL para criação do mesmo se encontra na pasta database com o nome de: 
 <strong>BD.SQL.</strong> Importe este arquivo.
@@ -28,15 +28,20 @@ Sendo:<br>
 <br>
 
 - Consultar todas as enquetes:<br>
-<strong>Método GET</strong><br>
+<strong>Métodos GET</strong><br>
 /enquetes
 <br>
 
 - Consultar uma enquete específica:<br>
-<strong>Método GET</strong><br>
 /enquete/{id}<br>
 Sendo:<br>
 {id} = ID da enquete
+<br>
+
+- Consultar estatísticas:<br>
+/enquete/{id}/stats<br>
+Sendo:<br>
+{id}   = ID da enquete
 <br>
 
 - Editar descrição de enquete específica:<br>
@@ -54,3 +59,7 @@ Sendo:<br>
 Sendo:<br>
 {id}   = ID da enquete
 <br>
+
+
+
+
