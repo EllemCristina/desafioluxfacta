@@ -19,8 +19,7 @@ Coloque todos os arquivos do .git dentro de uma pasta no servidor e ative o serv
 <br>
 - Criação de enquete:
 <strong>Método POST</strong><br>
-/enquete/{desc}/{op1}/{op2}/{op3}
-<br>
+/enquete/{desc}/{op1}/{op2}/{op3}<br>
 Sendo:<br>
 {desc} = Nome da Enquete<br>
 {op1}  = Primeira opção da enquete<br>
