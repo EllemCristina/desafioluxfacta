@@ -16,9 +16,8 @@ Coloque todos os arquivos do .git dentro de uma pasta no servidor e ative o serv
 
 4º Teste as Rotas disponíveis:
 <br>
-- Criação de enquete:<br>
 <strong>Método POST</strong><br>
-/enquete/{desc}/{op1}/{op2}/{op3}<br>
+- Criação de enquete: /enquete/{desc}/{op1}/{op2}/{op3}<br>
 Sendo:<br>
 {desc} = Nome da Enquete<br>
 {op1}  = Primeira opção da enquete<br>
