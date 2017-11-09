@@ -39,11 +39,18 @@ Sendo:<br>
 {id} = ID da enquete
 <br>
 
-
 - Editar descrição de enquete específica:<br>
 <strong>Método PUT</strong><br>
 /enquete/{desc}/{id}<br>
 Sendo:<br>
 {desc} = Nome da Enquete<br>
-{id} = ID da enquete
+{id}   = ID da enquete
+<br>
+
+
+- Excluir enquete específica:<br>
+<strong>Método DELETE</strong><br>
+/enquete/{id}<br>
+Sendo:<br>
+{id}   = ID da enquete
 <br>
