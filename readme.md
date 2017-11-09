@@ -29,6 +29,9 @@ Sendo:<br>
 {op3}  = Terceira da enquete<br>
 
 
-- Para consultas todas as 
+- Para consulta de todas as enquetes:
+<strong>Método GET</strong><br>
+/enquetes
+<br>
 
 
