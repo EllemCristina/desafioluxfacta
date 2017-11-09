@@ -12,6 +12,17 @@ Coloque todos os arquivos do .git dentro de uma pasta no servidor.
 <br>
 
 3º Rotas disponíveis:
+<br>
+- Criação de enquete:<br>
+
+<strong>POST/enquete/{desc}/{op1}/{op2}/{op3}</strong>
+<br>
+Sendo:<br>
+{desc} = Nome da Enquete<br>
+{op1}  = Primeira opção da enquete<br>
+{op2}  = Segunda opção da enquete<br>
+{op3}  = Terceira da enquete<br>
+
 
 - Para consultas todas as 
 
