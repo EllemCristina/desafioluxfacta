@@ -28,13 +28,21 @@ Sendo:<br>
 {op3}  = Terceira da enquete<br>
 
 
-- Para consulta de todas as enquetes:<br>
+- Consultar todas as enquetes:<br>
 <strong>Método GET</strong><br>
 /enquetes
 <br>
 
-- Para consulta de enquetes uma enquete específica:<br>
+- Consultar uma enquete específica:<br>
 <strong>Método GET</strong><br>
 /enquete/{id}<br>
 Sendo:<br>
+{id} = ID da enquete<br>
+
+
+- Editar descrição de enquete específica:<br>
+<strong>Método PUT</strong><br>
+/enquete/{desc}/{id}<br>
+Sendo:<br>
+{desc} = Nome da Enquete<br>
 {id} = ID da enquete<br>
