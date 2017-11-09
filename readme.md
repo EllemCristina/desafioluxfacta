@@ -1,7 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 <h2>API RESTFul em LARAVEL para utilização de uma enquete.</h2>
 
-1º Crie o banco de dados, foi utilizado o MariaDB e o SQL para criação do mesmo se encontra na pasta database com o nome de: 
+1º Crie o banco de dados, neste desafio foi utilizado MariaDB e o MySQL para criação, o script do mesmo se encontra na pasta database com o nome de: 
 <strong>BD.SQL.</strong> Importe este arquivo.
 
 <br>
@@ -15,7 +14,7 @@ Coloque todos os arquivos do .git dentro de uma pasta no servidor e ative o serv
 
 <br>
 
-3º Rotas disponíveis:
+4º Teste as Rotas disponíveis:
 <br>
 - Criação de enquete:<br>
 <strong>Método POST</strong><br>
