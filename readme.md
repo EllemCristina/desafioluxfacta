@@ -6,8 +6,12 @@
 
 <br>
 
-2º Utilize um servidor web de sua preferência, no meu caso eu utilizei o XAMPP.
-Coloque todos os arquivos do .git dentro de uma pasta no servidor.
+2º Utilize um servidor web PHP de sua preferência, no meu caso eu utilizei o XAMPP.
+Coloque todos os arquivos do .git dentro de uma pasta no servidor e ative o serviço do banco de dados e servidor.
+
+<br>
+
+3º Utilizando o git, vá até a pasta extraida e digite: php artisan serve
 
 <br>
 
@@ -15,7 +19,8 @@ Coloque todos os arquivos do .git dentro de uma pasta no servidor.
 <br>
 - Criação de enquete:<br>
 
-<strong>POST/enquete/{desc}/{op1}/{op2}/{op3}</strong>
+<strong>Método POST</strong><br>
+/enquete/{desc}/{op1}/{op2}/{op3}
 <br>
 Sendo:<br>
 {desc} = Nome da Enquete<br>
